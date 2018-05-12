@@ -1,15 +1,16 @@
 _repo: Forty-Years-Among-the-Indians-A-true-yet-thrilling-narrative-of-the-author-s-experiences-amon__46521
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46521/46521-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46521-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Daniel W.
     gutenberg_agent_id: '43829'
     url: http://www.gutenberg.org/2009/agents/43829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46521#Forty-Years-Among-the-Indians-A-true-yet-thrilling-narrative-of-the-author-s-experiences-amon_
 gutenberg_issued: '2014-08-06'
 gutenberg_type: Text
 identifiers:
